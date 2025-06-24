@@ -1,0 +1,8 @@
+[
+  { "HUB_ID": 1, "HUB_LOCATION": "Lebanon" },
+  { "HUB_ID": 2, "HUB_LOCATION": "Italy" },
+  { "HUB_ID": 3, "HUB_LOCATION": "France" },
+  { "HUB_ID": 4, "HUB_LOCATION": "Germany" },
+  { "HUB_ID": 5, "HUB_LOCATION": "Portugal" },
+  { "HUB_ID": 6, "HUB_LOCATION": "USA" }
+]

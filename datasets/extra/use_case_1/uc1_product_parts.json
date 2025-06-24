@@ -1,0 +1,298 @@
+[
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2000, "QUANTITY": 1 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2001, "QUANTITY": 1 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2002, "QUANTITY": 1 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2003, "QUANTITY": 2 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2004, "QUANTITY": 1 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2005, "QUANTITY": 1 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2006, "QUANTITY": 1 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2007, "QUANTITY": 1 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2011, "QUANTITY": 1 },
+  { "PART_ID": 1000, "PART_NAME": "Smartphone Pro", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2000, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2001, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2002, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2003, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2004, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2005, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2006, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2007, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2011, "QUANTITY": 1 },
+  { "PART_ID": 1001, "PART_NAME": "Tablet Ultra", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2000, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2001, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2002, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2003, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2004, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2005, "QUANTITY": 2 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2006, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2007, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2008, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2009, "QUANTITY": 1 },
+  { "PART_ID": 1002, "PART_NAME": "Laptop Elite", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 1003, "PART_NAME": "Wireless Earbuds", "COMPONENT_ID": 2004, "QUANTITY": 2 },
+  { "PART_ID": 1003, "PART_NAME": "Wireless Earbuds", "COMPONENT_ID": 2002, "QUANTITY": 2 },
+  { "PART_ID": 1003, "PART_NAME": "Wireless Earbuds", "COMPONENT_ID": 2006, "QUANTITY": 2 },
+  { "PART_ID": 1003, "PART_NAME": "Wireless Earbuds", "COMPONENT_ID": 2014, "QUANTITY": 1 },
+  { "PART_ID": 1003, "PART_NAME": "Wireless Earbuds", "COMPONENT_ID": 2010, "QUANTITY": 3 },
+
+  { "PART_ID": 1004, "PART_NAME": "Smart Watch", "COMPONENT_ID": 2000, "QUANTITY": 1 },
+  { "PART_ID": 1004, "PART_NAME": "Smart Watch", "COMPONENT_ID": 2001, "QUANTITY": 1 },
+  { "PART_ID": 1004, "PART_NAME": "Smart Watch", "COMPONENT_ID": 2002, "QUANTITY": 1 },
+  { "PART_ID": 1004, "PART_NAME": "Smart Watch", "COMPONENT_ID": 2006, "QUANTITY": 1 },
+  { "PART_ID": 1004, "PART_NAME": "Smart Watch", "COMPONENT_ID": 2007, "QUANTITY": 1 },
+  { "PART_ID": 1004, "PART_NAME": "Smart Watch", "COMPONENT_ID": 2011, "QUANTITY": 1 },
+  { "PART_ID": 1004, "PART_NAME": "Smart Watch", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 1005, "PART_NAME": "Gaming Console", "COMPONENT_ID": 2000, "QUANTITY": 1 },
+  { "PART_ID": 1005, "PART_NAME": "Gaming Console", "COMPONENT_ID": 2005, "QUANTITY": 2 },
+  { "PART_ID": 1005, "PART_NAME": "Gaming Console", "COMPONENT_ID": 2006, "QUANTITY": 1 },
+  { "PART_ID": 1005, "PART_NAME": "Gaming Console", "COMPONENT_ID": 2007, "QUANTITY": 1 },
+  { "PART_ID": 1005, "PART_NAME": "Gaming Console", "COMPONENT_ID": 2008, "QUANTITY": 1 },
+  { "PART_ID": 1005, "PART_NAME": "Gaming Console", "COMPONENT_ID": 2009, "QUANTITY": 2 },
+  { "PART_ID": 1005, "PART_NAME": "Gaming Console", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 1006, "PART_NAME": "Wireless Speaker", "COMPONENT_ID": 2004, "QUANTITY": 1 },
+  { "PART_ID": 1006, "PART_NAME": "Wireless Speaker", "COMPONENT_ID": 2002, "QUANTITY": 1 },
+  { "PART_ID": 1006, "PART_NAME": "Wireless Speaker", "COMPONENT_ID": 2006, "QUANTITY": 1 },
+  { "PART_ID": 1006, "PART_NAME": "Wireless Speaker", "COMPONENT_ID": 2007, "QUANTITY": 1 },
+  { "PART_ID": 1006, "PART_NAME": "Wireless Speaker", "COMPONENT_ID": 2014, "QUANTITY": 1 },
+  { "PART_ID": 1006, "PART_NAME": "Wireless Speaker", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 1007, "PART_NAME": "Digital Camera", "COMPONENT_ID": 2000, "QUANTITY": 1 },
+  { "PART_ID": 1007, "PART_NAME": "Digital Camera", "COMPONENT_ID": 2001, "QUANTITY": 1 },
+  { "PART_ID": 1007, "PART_NAME": "Digital Camera", "COMPONENT_ID": 2002, "QUANTITY": 1 },
+  { "PART_ID": 1007, "PART_NAME": "Digital Camera", "COMPONENT_ID": 2003, "QUANTITY": 1 },
+  { "PART_ID": 1007, "PART_NAME": "Digital Camera", "COMPONENT_ID": 2005, "QUANTITY": 1 },
+  { "PART_ID": 1007, "PART_NAME": "Digital Camera", "COMPONENT_ID": 2013, "QUANTITY": 1 },
+  { "PART_ID": 1007, "PART_NAME": "Digital Camera", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 1008, "PART_NAME": "VR Headset", "COMPONENT_ID": 2000, "QUANTITY": 1 },
+  { "PART_ID": 1008, "PART_NAME": "VR Headset", "COMPONENT_ID": 2001, "QUANTITY": 2 },
+  { "PART_ID": 1008, "PART_NAME": "VR Headset", "COMPONENT_ID": 2002, "QUANTITY": 1 },
+  { "PART_ID": 1008, "PART_NAME": "VR Headset", "COMPONENT_ID": 2004, "QUANTITY": 1 },
+  { "PART_ID": 1008, "PART_NAME": "VR Headset", "COMPONENT_ID": 2006, "QUANTITY": 1 },
+  { "PART_ID": 1008, "PART_NAME": "VR Headset", "COMPONENT_ID": 2011, "QUANTITY": 1 },
+  { "PART_ID": 1008, "PART_NAME": "VR Headset", "COMPONENT_ID": 2013, "QUANTITY": 2 },
+  { "PART_ID": 1008, "PART_NAME": "VR Headset", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 1009, "PART_NAME": "Drone Quadcopter", "COMPONENT_ID": 2000, "QUANTITY": 1 },
+  { "PART_ID": 1009, "PART_NAME": "Drone Quadcopter", "COMPONENT_ID": 2002, "QUANTITY": 1 },
+  { "PART_ID": 1009, "PART_NAME": "Drone Quadcopter", "COMPONENT_ID": 2003, "QUANTITY": 1 },
+  { "PART_ID": 1009, "PART_NAME": "Drone Quadcopter", "COMPONENT_ID": 2006, "QUANTITY": 1 },
+  { "PART_ID": 1009, "PART_NAME": "Drone Quadcopter", "COMPONENT_ID": 2007, "QUANTITY": 1 },
+  { "PART_ID": 1009, "PART_NAME": "Drone Quadcopter", "COMPONENT_ID": 2011, "QUANTITY": 1 },
+  { "PART_ID": 1009, "PART_NAME": "Drone Quadcopter", "COMPONENT_ID": 2012, "QUANTITY": 4 },
+  { "PART_ID": 1009, "PART_NAME": "Drone Quadcopter", "COMPONENT_ID": 2010, "QUANTITY": 1 },
+
+  { "PART_ID": 2000, "PART_NAME": "Main Processor Unit", "COMPONENT_ID": 3000, "QUANTITY": 4 },
+  { "PART_ID": 2000, "PART_NAME": "Main Processor Unit", "COMPONENT_ID": 3001, "QUANTITY": 1 },
+  { "PART_ID": 2000, "PART_NAME": "Main Processor Unit", "COMPONENT_ID": 3002, "QUANTITY": 2 },
+  { "PART_ID": 2000, "PART_NAME": "Main Processor Unit", "COMPONENT_ID": 3003, "QUANTITY": 1 },
+
+  { "PART_ID": 2001, "PART_NAME": "Display Assembly", "COMPONENT_ID": 3004, "QUANTITY": 1 },
+  { "PART_ID": 2001, "PART_NAME": "Display Assembly", "COMPONENT_ID": 3005, "QUANTITY": 1 },
+  { "PART_ID": 2001, "PART_NAME": "Display Assembly", "COMPONENT_ID": 3006, "QUANTITY": 1 },
+  { "PART_ID": 2001, "PART_NAME": "Display Assembly", "COMPONENT_ID": 3007, "QUANTITY": 1 },
+
+  { "PART_ID": 2002, "PART_NAME": "Battery Pack", "COMPONENT_ID": 3008, "QUANTITY": 4 },
+  { "PART_ID": 2002, "PART_NAME": "Battery Pack", "COMPONENT_ID": 3009, "QUANTITY": 1 },
+  { "PART_ID": 2002, "PART_NAME": "Battery Pack", "COMPONENT_ID": 3010, "QUANTITY": 1 },
+
+  { "PART_ID": 2003, "PART_NAME": "Camera Module", "COMPONENT_ID": 3011, "QUANTITY": 1 },
+  { "PART_ID": 2003, "PART_NAME": "Camera Module", "COMPONENT_ID": 3012, "QUANTITY": 1 },
+  { "PART_ID": 2003, "PART_NAME": "Camera Module", "COMPONENT_ID": 3013, "QUANTITY": 1 },
+
+  { "PART_ID": 2004, "PART_NAME": "Audio System", "COMPONENT_ID": 3014, "QUANTITY": 2 },
+  { "PART_ID": 2004, "PART_NAME": "Audio System", "COMPONENT_ID": 3015, "QUANTITY": 1 },
+  { "PART_ID": 2004, "PART_NAME": "Audio System", "COMPONENT_ID": 3016, "QUANTITY": 1 },
+
+  { "PART_ID": 2005, "PART_NAME": "Memory Module", "COMPONENT_ID": 3017, "QUANTITY": 8 },
+  { "PART_ID": 2005, "PART_NAME": "Memory Module", "COMPONENT_ID": 3018, "QUANTITY": 1 },
+
+  { "PART_ID": 2006, "PART_NAME": "Wireless Communication Unit", "COMPONENT_ID": 3019, "QUANTITY": 1 },
+  { "PART_ID": 2006, "PART_NAME": "Wireless Communication Unit", "COMPONENT_ID": 3020, "QUANTITY": 1 },
+  { "PART_ID": 2006, "PART_NAME": "Wireless Communication Unit", "COMPONENT_ID": 3021, "QUANTITY": 3 },
+
+  { "PART_ID": 2007, "PART_NAME": "Power Management Unit", "COMPONENT_ID": 3022, "QUANTITY": 4 },
+  { "PART_ID": 2007, "PART_NAME": "Power Management Unit", "COMPONENT_ID": 3023, "QUANTITY": 8 },
+
+  { "PART_ID": 2008, "PART_NAME": "Cooling System", "COMPONENT_ID": 3024, "QUANTITY": 1 },
+  { "PART_ID": 2008, "PART_NAME": "Cooling System", "COMPONENT_ID": 3025, "QUANTITY": 2 },
+  { "PART_ID": 2008, "PART_NAME": "Cooling System", "COMPONENT_ID": 3026, "QUANTITY": 2 },
+
+  { "PART_ID": 2009, "PART_NAME": "Input Interface", "COMPONENT_ID": 3027, "QUANTITY": 6 },
+  { "PART_ID": 2009, "PART_NAME": "Input Interface", "COMPONENT_ID": 3028, "QUANTITY": 2 },
+  { "PART_ID": 2009, "PART_NAME": "Input Interface", "COMPONENT_ID": 3029, "QUANTITY": 4 },
+
+  { "PART_ID": 2010, "PART_NAME": "Chassis Assembly", "COMPONENT_ID": 3030, "QUANTITY": 1 },
+  { "PART_ID": 2010, "PART_NAME": "Chassis Assembly", "COMPONENT_ID": 3031, "QUANTITY": 1 },
+  { "PART_ID": 2010, "PART_NAME": "Chassis Assembly", "COMPONENT_ID": 3032, "QUANTITY": 4 },
+
+  { "PART_ID": 2011, "PART_NAME": "Sensor Array", "COMPONENT_ID": 3033, "QUANTITY": 1 },
+  { "PART_ID": 2011, "PART_NAME": "Sensor Array", "COMPONENT_ID": 3034, "QUANTITY": 1 },
+  { "PART_ID": 2011, "PART_NAME": "Sensor Array", "COMPONENT_ID": 3035, "QUANTITY": 1 },
+
+  { "PART_ID": 2012, "PART_NAME": "Motor Assembly", "COMPONENT_ID": 3036, "QUANTITY": 1 },
+  { "PART_ID": 2012, "PART_NAME": "Motor Assembly", "COMPONENT_ID": 3037, "QUANTITY": 1 },
+  { "PART_ID": 2012, "PART_NAME": "Motor Assembly", "COMPONENT_ID": 3038, "QUANTITY": 2 },
+
+  { "PART_ID": 2013, "PART_NAME": "Optical System", "COMPONENT_ID": 3039, "QUANTITY": 3 },
+  { "PART_ID": 2013, "PART_NAME": "Optical System", "COMPONENT_ID": 3040, "QUANTITY": 1 },
+  { "PART_ID": 2013, "PART_NAME": "Optical System", "COMPONENT_ID": 3041, "QUANTITY": 1 },
+
+  { "PART_ID": 2014, "PART_NAME": "Control Board", "COMPONENT_ID": 3042, "QUANTITY": 1 },
+  { "PART_ID": 2014, "PART_NAME": "Control Board", "COMPONENT_ID": 3043, "QUANTITY": 4 },
+  { "PART_ID": 2014, "PART_NAME": "Control Board", "COMPONENT_ID": 3044, "QUANTITY": 12 },
+
+  { "PART_ID": 3000, "PART_NAME": "ARM Processor Core", "COMPONENT_ID": 4000, "QUANTITY": 30 },
+  { "PART_ID": 3000, "PART_NAME": "ARM Processor Core", "COMPONENT_ID": 4001, "QUANTITY": 22 },
+  { "PART_ID": 3000, "PART_NAME": "ARM Processor Core", "COMPONENT_ID": 4002, "QUANTITY": 1 },
+  { "PART_ID": 3000, "PART_NAME": "ARM Processor Core", "COMPONENT_ID": 4035, "QUANTITY": 1 },
+
+  { "PART_ID": 3001, "PART_NAME": "Graphics Processing Unit", "COMPONENT_ID": 4000, "QUANTITY": 12 },
+  { "PART_ID": 3001, "PART_NAME": "Graphics Processing Unit", "COMPONENT_ID": 4035, "QUANTITY": 1 },
+  { "PART_ID": 3001, "PART_NAME": "Graphics Processing Unit", "COMPONENT_ID": 4038, "QUANTITY": 1 },
+
+  { "PART_ID": 3002, "PART_NAME": "Cache Memory", "COMPONENT_ID": 4027, "QUANTITY": 20 },
+  { "PART_ID": 3002, "PART_NAME": "Cache Memory", "COMPONENT_ID": 4004, "QUANTITY": 1 },
+
+  { "PART_ID": 3003, "PART_NAME": "Heat Spreader", "COMPONENT_ID": 4038, "QUANTITY": 1 },
+  { "PART_ID": 3003, "PART_NAME": "Heat Spreader", "COMPONENT_ID": 4039, "QUANTITY": 16 },
+
+  { "PART_ID": 3004, "PART_NAME": "LCD Panel", "COMPONENT_ID": 4009, "QUANTITY": 2 },
+  { "PART_ID": 3004, "PART_NAME": "LCD Panel", "COMPONENT_ID": 4010, "QUANTITY": 2 },
+  { "PART_ID": 3004, "PART_NAME": "LCD Panel", "COMPONENT_ID": 4011, "QUANTITY": 1 },
+  { "PART_ID": 3004, "PART_NAME": "LCD Panel", "COMPONENT_ID": 4012, "QUANTITY": 1 },
+
+  { "PART_ID": 3005, "PART_NAME": "Touch Controller", "COMPONENT_ID": 3042, "QUANTITY": 1 },
+  { "PART_ID": 3005, "PART_NAME": "Touch Controller", "COMPONENT_ID": 4007, "QUANTITY": 2 },
+
+  { "PART_ID": 3006, "PART_NAME": "Backlight Unit", "COMPONENT_ID": 3043, "QUANTITY": 24 },
+  { "PART_ID": 3006, "PART_NAME": "Backlight Unit", "COMPONENT_ID": 3044, "QUANTITY": 48 },
+
+  { "PART_ID": 3007, "PART_NAME": "Digitizer Layer", "COMPONENT_ID": 4013, "QUANTITY": 1 },
+  { "PART_ID": 3007, "PART_NAME": "Digitizer Layer", "COMPONENT_ID": 4014, "QUANTITY": 1 },
+  { "PART_ID": 3007, "PART_NAME": "Digitizer Layer", "COMPONENT_ID": 4015, "QUANTITY": 1 },
+
+  { "PART_ID": 3008, "PART_NAME": "Lithium Battery Cell", "COMPONENT_ID": 4016, "QUANTITY": 2 },
+  { "PART_ID": 3008, "PART_NAME": "Lithium Battery Cell", "COMPONENT_ID": 4017, "QUANTITY": 1 },
+  { "PART_ID": 3008, "PART_NAME": "Lithium Battery Cell", "COMPONENT_ID": 4018, "QUANTITY": 1 },
+  { "PART_ID": 3008, "PART_NAME": "Lithium Battery Cell", "COMPONENT_ID": 4019, "QUANTITY": 2 },
+
+  { "PART_ID": 3009, "PART_NAME": "Battery Controller", "COMPONENT_ID": 3042, "QUANTITY": 1 },
+  { "PART_ID": 3009, "PART_NAME": "Battery Controller", "COMPONENT_ID": 4005, "QUANTITY": 4 },
+
+  { "PART_ID": 3010, "PART_NAME": "Charging Circuit", "COMPONENT_ID": 4005, "QUANTITY": 2 },
+  { "PART_ID": 3010, "PART_NAME": "Charging Circuit", "COMPONENT_ID": 4001, "QUANTITY": 4 },
+  { "PART_ID": 3010, "PART_NAME": "Charging Circuit", "COMPONENT_ID": 3023, "QUANTITY": 6 },
+
+  { "PART_ID": 3011, "PART_NAME": "Image Sensor", "COMPONENT_ID": 4020, "QUANTITY": 1 },
+  { "PART_ID": 3011, "PART_NAME": "Image Sensor", "COMPONENT_ID": 4021, "QUANTITY": 1 },
+
+  { "PART_ID": 3012, "PART_NAME": "Lens Assembly", "COMPONENT_ID": 4022, "QUANTITY": 5 },
+  { "PART_ID": 3012, "PART_NAME": "Lens Assembly", "COMPONENT_ID": 3030, "QUANTITY": 1 },
+
+  { "PART_ID": 3013, "PART_NAME": "Image Processor", "COMPONENT_ID": 3042, "QUANTITY": 1 },
+  { "PART_ID": 3013, "PART_NAME": "Image Processor", "COMPONENT_ID": 4035, "QUANTITY": 1 },
+
+  { "PART_ID": 3014, "PART_NAME": "Speaker Driver", "COMPONENT_ID": 4023, "QUANTITY": 1 },
+  { "PART_ID": 3014, "PART_NAME": "Speaker Driver", "COMPONENT_ID": 4024, "QUANTITY": 1 },
+  { "PART_ID": 3014, "PART_NAME": "Speaker Driver", "COMPONENT_ID": 4025, "QUANTITY": 1 },
+  { "PART_ID": 3014, "PART_NAME": "Speaker Driver", "COMPONENT_ID": 4026, "QUANTITY": 1 },
+
+  { "PART_ID": 3015, "PART_NAME": "Microphone", "COMPONENT_ID": 4025, "QUANTITY": 1 },
+  { "PART_ID": 3015, "PART_NAME": "Microphone", "COMPONENT_ID": 4013, "QUANTITY": 1 },
+
+  { "PART_ID": 3016, "PART_NAME": "Audio Amplifier", "COMPONENT_ID": 4006, "QUANTITY": 2 },
+  { "PART_ID": 3016, "PART_NAME": "Audio Amplifier", "COMPONENT_ID": 4008, "QUANTITY": 1 },
+
+  { "PART_ID": 3017, "PART_NAME": "RAM Chip", "COMPONENT_ID": 4027, "QUANTITY": 18 },
+  { "PART_ID": 3017, "PART_NAME": "RAM Chip", "COMPONENT_ID": 4028, "QUANTITY": 1 },
+  { "PART_ID": 3017, "PART_NAME": "RAM Chip", "COMPONENT_ID": 4029, "QUANTITY": 8 },
+
+  { "PART_ID": 3018, "PART_NAME": "Flash Storage", "COMPONENT_ID": 4027, "QUANTITY": 20 },
+  { "PART_ID": 3018, "PART_NAME": "Flash Storage", "COMPONENT_ID": 4004, "QUANTITY": 1 },
+
+  { "PART_ID": 3019, "PART_NAME": "WiFi Chip", "COMPONENT_ID": 4030, "QUANTITY": 1 },
+  { "PART_ID": 3019, "PART_NAME": "WiFi Chip", "COMPONENT_ID": 4031, "QUANTITY": 1 },
+  { "PART_ID": 3019, "PART_NAME": "WiFi Chip", "COMPONENT_ID": 4032, "QUANTITY": 1 },
+
+  { "PART_ID": 3020, "PART_NAME": "Bluetooth Module", "COMPONENT_ID": 4030, "QUANTITY": 1 },
+  { "PART_ID": 3020, "PART_NAME": "Bluetooth Module", "COMPONENT_ID": 4002, "QUANTITY": 1 },
+
+  { "PART_ID": 3021, "PART_NAME": "Antenna", "COMPONENT_ID": 4033, "QUANTITY": 1 },
+  { "PART_ID": 3021, "PART_NAME": "Antenna", "COMPONENT_ID": 4034, "QUANTITY": 1 },
+
+  { "PART_ID": 3022, "PART_NAME": "Voltage Regulator", "COMPONENT_ID": 4005, "QUANTITY": 1 },
+  { "PART_ID": 3022, "PART_NAME": "Voltage Regulator", "COMPONENT_ID": 4003, "QUANTITY": 2 },
+  { "PART_ID": 3022, "PART_NAME": "Voltage Regulator", "COMPONENT_ID": 3023, "QUANTITY": 4 },
+
+  { "PART_ID": 3023, "PART_NAME": "Capacitor", "COMPONENT_ID": 4016, "QUANTITY": 2 },
+  { "PART_ID": 3023, "PART_NAME": "Capacitor", "COMPONENT_ID": 4017, "QUANTITY": 1 },
+
+  { "PART_ID": 3024, "PART_NAME": "Heat Sink", "COMPONENT_ID": 3030, "QUANTITY": 1 },
+  { "PART_ID": 3024, "PART_NAME": "Heat Sink", "COMPONENT_ID": 4038, "QUANTITY": 1 },
+
+  { "PART_ID": 3025, "PART_NAME": "Thermal Pad", "COMPONENT_ID": 4038, "QUANTITY": 1 },
+  { "PART_ID": 3025, "PART_NAME": "Thermal Pad", "COMPONENT_ID": 4015, "QUANTITY": 1 },
+
+  { "PART_ID": 3026, "PART_NAME": "Cooling Fan", "COMPONENT_ID": 3036, "QUANTITY": 1 },
+  { "PART_ID": 3026, "PART_NAME": "Cooling Fan", "COMPONENT_ID": 3031, "QUANTITY": 1 },
+
+  { "PART_ID": 3027, "PART_NAME": "Button Switch", "COMPONENT_ID": 4000, "QUANTITY": 2 },
+  { "PART_ID": 3027, "PART_NAME": "Button Switch", "COMPONENT_ID": 3044, "QUANTITY": 2 },
+
+  { "PART_ID": 3028, "PART_NAME": "Flex Cable", "COMPONENT_ID": 4013, "QUANTITY": 1 },
+  { "PART_ID": 3028, "PART_NAME": "Flex Cable", "COMPONENT_ID": 4015, "QUANTITY": 1 },
+
+  { "PART_ID": 3029, "PART_NAME": "Connector", "COMPONENT_ID": 4013, "QUANTITY": 1 },
+  { "PART_ID": 3029, "PART_NAME": "Connector", "COMPONENT_ID": 4039, "QUANTITY": 8 },
+
+  { "PART_ID": 3030, "PART_NAME": "Aluminum Frame", "COMPONENT_ID": 4037, "QUANTITY": 1 },
+  { "PART_ID": 3030, "PART_NAME": "Aluminum Frame", "COMPONENT_ID": 4036, "QUANTITY": 50 },
+
+  { "PART_ID": 3031, "PART_NAME": "Plastic Housing", "COMPONENT_ID": 4037, "QUANTITY": 1 },
+  { "PART_ID": 3031, "PART_NAME": "Plastic Housing", "COMPONENT_ID": 4015, "QUANTITY": 2 },
+
+  { "PART_ID": 3032, "PART_NAME": "Rubber Gasket", "COMPONENT_ID": 4015, "QUANTITY": 1 },
+
+  { "PART_ID": 3033, "PART_NAME": "Accelerometer", "COMPONENT_ID": 4020, "QUANTITY": 1 },
+  { "PART_ID": 3033, "PART_NAME": "Accelerometer", "COMPONENT_ID": 3042, "QUANTITY": 1 },
+
+  { "PART_ID": 3034, "PART_NAME": "Gyroscope", "COMPONENT_ID": 4020, "QUANTITY": 1 },
+  { "PART_ID": 3034, "PART_NAME": "Gyroscope", "COMPONENT_ID": 3042, "QUANTITY": 1 },
+
+  { "PART_ID": 3035, "PART_NAME": "Magnetometer", "COMPONENT_ID": 4024, "QUANTITY": 1 },
+  { "PART_ID": 3035, "PART_NAME": "Magnetometer", "COMPONENT_ID": 4033, "QUANTITY": 1 },
+
+  { "PART_ID": 3036, "PART_NAME": "Brushless Motor", "COMPONENT_ID": 4024, "QUANTITY": 6 },
+  { "PART_ID": 3036, "PART_NAME": "Brushless Motor", "COMPONENT_ID": 4033, "QUANTITY": 3 },
+  { "PART_ID": 3036, "PART_NAME": "Brushless Motor", "COMPONENT_ID": 4000, "QUANTITY": 12 },
+
+  { "PART_ID": 3037, "PART_NAME": "Motor Controller", "COMPONENT_ID": 3042, "QUANTITY": 1 },
+  { "PART_ID": 3037, "PART_NAME": "Motor Controller", "COMPONENT_ID": 4005, "QUANTITY": 6 },
+
+  { "PART_ID": 3038, "PART_NAME": "Propeller", "COMPONENT_ID": 4037, "QUANTITY": 1 },
+
+  { "PART_ID": 3039, "PART_NAME": "Optical Lens", "COMPONENT_ID": 4022, "QUANTITY": 1 },
+  { "PART_ID": 3039, "PART_NAME": "Optical Lens", "COMPONENT_ID": 3030, "QUANTITY": 1 },
+
+  { "PART_ID": 3040, "PART_NAME": "Shutter Mechanism", "COMPONENT_ID": 3036, "QUANTITY": 1 },
+  { "PART_ID": 3040, "PART_NAME": "Shutter Mechanism", "COMPONENT_ID": 4024, "QUANTITY": 1 },
+
+  { "PART_ID": 3041, "PART_NAME": "Focus Motor", "COMPONENT_ID": 3036, "QUANTITY": 1 },
+  { "PART_ID": 3041, "PART_NAME": "Focus Motor", "COMPONENT_ID": 3037, "QUANTITY": 1 },
+
+  { "PART_ID": 3042, "PART_NAME": "Microcontroller", "COMPONENT_ID": 4035, "QUANTITY": 1 },
+  { "PART_ID": 3042, "PART_NAME": "Microcontroller", "COMPONENT_ID": 4036, "QUANTITY": 32 },
+  { "PART_ID": 3042, "PART_NAME": "Microcontroller", "COMPONENT_ID": 4037, "QUANTITY": 1 },
+
+  { "PART_ID": 3043, "PART_NAME": "LED", "COMPONENT_ID": 4035, "QUANTITY": 1 },
+  { "PART_ID": 3043, "PART_NAME": "LED", "COMPONENT_ID": 4036, "QUANTITY": 2 },
+
+  { "PART_ID": 3044, "PART_NAME": "Resistor", "COMPONENT_ID": 4037, "QUANTITY": 1 }
+]

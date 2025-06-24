@@ -1,0 +1,10 @@
+[
+  { "COST_CENTER_ID": 1, "PARENT_CC_ID": null, "COST_CENTER_NAME": "Corporate HQ" },
+  { "COST_CENTER_ID": 2, "PARENT_CC_ID": 1, "COST_CENTER_NAME": "Engineering" },
+  { "COST_CENTER_ID": 3, "PARENT_CC_ID": 1, "COST_CENTER_NAME": "Marketing" },
+  { "COST_CENTER_ID": 4, "PARENT_CC_ID": 2, "COST_CENTER_NAME": "Software" },
+  { "COST_CENTER_ID": 5, "PARENT_CC_ID": 2, "COST_CENTER_NAME": "Hardware" },
+  { "COST_CENTER_ID": 6, "PARENT_CC_ID": 3, "COST_CENTER_NAME": "Content" },
+  { "COST_CENTER_ID": 7, "PARENT_CC_ID": 3, "COST_CENTER_NAME": "SEO" },
+  { "COST_CENTER_ID": 8, "PARENT_CC_ID": 6, "COST_CENTER_NAME": "Social Media" }
+]

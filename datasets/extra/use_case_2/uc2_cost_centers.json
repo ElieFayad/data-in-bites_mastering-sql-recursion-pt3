@@ -1,0 +1,22 @@
+[
+  { "COST_CENTER_ID": 1, "PARENT_CC_ID": null, "COST_CENTER_NAME": "Corporate HQ" },
+  { "COST_CENTER_ID": 2, "PARENT_CC_ID": 1, "COST_CENTER_NAME": "Technology Division" },
+  { "COST_CENTER_ID": 3, "PARENT_CC_ID": 1, "COST_CENTER_NAME": "Operations Division" },
+  { "COST_CENTER_ID": 4, "PARENT_CC_ID": 1, "COST_CENTER_NAME": "Sales & Marketing" },
+  { "COST_CENTER_ID": 5, "PARENT_CC_ID": 1, "COST_CENTER_NAME": "Finance & Administration" },
+  { "COST_CENTER_ID": 6, "PARENT_CC_ID": 2, "COST_CENTER_NAME": "Software Development" },
+  { "COST_CENTER_ID": 7, "PARENT_CC_ID": 2, "COST_CENTER_NAME": "Infrastructure & Cloud" },
+  { "COST_CENTER_ID": 8, "PARENT_CC_ID": 2, "COST_CENTER_NAME": "Data & Analytics" },
+  { "COST_CENTER_ID": 9, "PARENT_CC_ID": 3, "COST_CENTER_NAME": "Manufacturing" },
+  { "COST_CENTER_ID": 10, "PARENT_CC_ID": 3, "COST_CENTER_NAME": "Quality Assurance" },
+  { "COST_CENTER_ID": 11, "PARENT_CC_ID": 3, "COST_CENTER_NAME": "Supply Chain" },
+  { "COST_CENTER_ID": 12, "PARENT_CC_ID": 4, "COST_CENTER_NAME": "Digital Marketing" },
+  { "COST_CENTER_ID": 13, "PARENT_CC_ID": 4, "COST_CENTER_NAME": "Sales Operations" },
+  { "COST_CENTER_ID": 14, "PARENT_CC_ID": 6, "COST_CENTER_NAME": "Frontend Development" },
+  { "COST_CENTER_ID": 15, "PARENT_CC_ID": 6, "COST_CENTER_NAME": "Backend Services" },
+  { "COST_CENTER_ID": 16, "PARENT_CC_ID": 6, "COST_CENTER_NAME": "Mobile Applications" },
+  { "COST_CENTER_ID": 17, "PARENT_CC_ID": 12, "COST_CENTER_NAME": "Content Creation" },
+  { "COST_CENTER_ID": 18, "PARENT_CC_ID": 12, "COST_CENTER_NAME": "Paid Advertising" },
+  { "COST_CENTER_ID": 19, "PARENT_CC_ID": 14, "COST_CENTER_NAME": "User Experience Team" },
+  { "COST_CENTER_ID": 20, "PARENT_CC_ID": 17, "COST_CENTER_NAME": "Video Production" }
+]
